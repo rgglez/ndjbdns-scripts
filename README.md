@@ -17,7 +17,7 @@ ndjbdns is a fork of the great djbdns (Tiny DNS) DNS server (which was abandoned
      * *data.cdb* - creates a backup, creates the data text file from the zone files.
      * *backupdata* - moves the old data file to a backup directory.
      * *data* - creates the data text file from the zone files.
-     * *remote* - executes *data.cdb* and copies the data fiel to a secondary DNS server using rsync.
+     * *remote* - executes *data.cdb* and copies the data fiel to a secondary DNS server using rsync over ssh.
      
   You'll need to modify the paths.
      
@@ -28,6 +28,7 @@ This works in Linux. I think that it works in FreeBSD and other OS too, as long 
 * [ndjbdns](https://github.com/pjps/ndjbdns) (of course)
 * [make](https://en.wikipedia.org/wiki/Make_(software))
 * [rsync](https://en.wikipedia.org/wiki/Rsync)
+* ssh
 
 ## License
 
