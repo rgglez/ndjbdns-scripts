@@ -18,6 +18,7 @@ ndjbdns is a fork of the great djbdns (Tiny DNS) DNS server (which was abandoned
      * *backupdata* - moves the old data file to a backup directory.
      * *data* - creates the data text file from the zone files.
      * *remote* - executes *data.cdb* and copies the data fiel to a secondary DNS server using rsync.
+     
   You'll need to modify the paths.
      
 ## Dependencies
