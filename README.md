@@ -21,7 +21,7 @@ ndjbdns is a fork of the great djbdns (Tiny DNS) DNS server (which was abandoned
      
 ## Dependencies
 
-This works in Linux, 
+This works in Linux. I think that it works in FreeBSD and other OS too, as long as you have the programs.
 
 * [ndjbdns](https://github.com/pjps/ndjbdns) (of course)
 * [make](https://en.wikipedia.org/wiki/Make_(software))
