@@ -5,7 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/rgglez/ndjbdns-scripts) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/ndjbdns-scripts)
 
-Some scripts for performing administrative tasks for [ndjbdns](https://github.com/pjps/ndjbdns). 
+Some scripts for performing administrative tasks for [ndjbdns](https://github.com/dterweij/ndjbdns). 
 
 ndjbdns is a fork of the great djbdns (Tiny DNS) DNS server (which was abandoned some years ago). From the ndjbdns repo:
 
