@@ -4,6 +4,8 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/rgglez/ndjbdns-scripts/total) 
 ![GitHub issues](https://img.shields.io/github/issues/rgglez/ndjbdns-scripts) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/ndjbdns-scripts)
+![GitHub stars](https://img.shields.io/github/stars/rgglez/ndjbdns-scripts?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rgglez/ndjbdns-scripts?style=social)
 
 Some scripts for performing administrative tasks for [ndjbdns](https://github.com/dterweij/ndjbdns). 
 
